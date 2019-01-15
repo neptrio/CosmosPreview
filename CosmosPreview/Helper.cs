@@ -9,7 +9,7 @@ namespace CosmosPreview
         public static void PrintBlock(string str)
         {
             Console.WriteLine("-----------------------\r\n");
-            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine(str + "\r\n");
             Console.ResetColor();
             Console.WriteLine("-----------------------\r\n");

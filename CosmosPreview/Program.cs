@@ -62,12 +62,6 @@ namespace CosmosPreview
 
         }
 
-        public static void CallCat(string name)
-        {
-
-        }
-
-
         public static string GetBoxColor()
         {
             Console.WriteLine("Welche Farbe hat deine Box:");
@@ -75,7 +69,6 @@ namespace CosmosPreview
             if (color == "")
                 GetBoxColor();
             return color;
-
         }
 
         public static string GetCatName()
@@ -85,7 +78,6 @@ namespace CosmosPreview
             if (name == "")
                 GetCatName();
             return name;
-
         }
 
     }
