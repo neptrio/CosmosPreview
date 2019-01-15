@@ -1,0 +1,11 @@
+C:\Users\Kevin\Documents\GitHub\ostfalia_db_2018_hausarbeiten\Azure Cosmos DB und das Entity Framework\CosmosPreview\CosmosPreview\bin\Debug\netcoreapp2.2\CosmosPreview.deps.json
+C:\Users\Kevin\Documents\GitHub\ostfalia_db_2018_hausarbeiten\Azure Cosmos DB und das Entity Framework\CosmosPreview\CosmosPreview\bin\Debug\netcoreapp2.2\CosmosPreview.runtimeconfig.json
+C:\Users\Kevin\Documents\GitHub\ostfalia_db_2018_hausarbeiten\Azure Cosmos DB und das Entity Framework\CosmosPreview\CosmosPreview\bin\Debug\netcoreapp2.2\CosmosPreview.runtimeconfig.dev.json
+C:\Users\Kevin\Documents\GitHub\ostfalia_db_2018_hausarbeiten\Azure Cosmos DB und das Entity Framework\CosmosPreview\CosmosPreview\bin\Debug\netcoreapp2.2\CosmosPreview.dll
+C:\Users\Kevin\Documents\GitHub\ostfalia_db_2018_hausarbeiten\Azure Cosmos DB und das Entity Framework\CosmosPreview\CosmosPreview\obj\Debug\netcoreapp2.2\CosmosPreview.csprojAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\ostfalia_db_2018_hausarbeiten\Azure Cosmos DB und das Entity Framework\CosmosPreview\CosmosPreview\obj\Debug\netcoreapp2.2\CosmosPreview.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\GitHub\ostfalia_db_2018_hausarbeiten\Azure Cosmos DB und das Entity Framework\CosmosPreview\CosmosPreview\obj\Debug\netcoreapp2.2\CosmosPreview.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\GitHub\ostfalia_db_2018_hausarbeiten\Azure Cosmos DB und das Entity Framework\CosmosPreview\CosmosPreview\obj\Debug\netcoreapp2.2\CosmosPreview.AssemblyInfo.cs
+C:\Users\Kevin\Documents\GitHub\ostfalia_db_2018_hausarbeiten\Azure Cosmos DB und das Entity Framework\CosmosPreview\CosmosPreview\bin\Debug\netcoreapp2.2\CosmosPreview.pdb
+C:\Users\Kevin\Documents\GitHub\ostfalia_db_2018_hausarbeiten\Azure Cosmos DB und das Entity Framework\CosmosPreview\CosmosPreview\obj\Debug\netcoreapp2.2\CosmosPreview.dll
+C:\Users\Kevin\Documents\GitHub\ostfalia_db_2018_hausarbeiten\Azure Cosmos DB und das Entity Framework\CosmosPreview\CosmosPreview\obj\Debug\netcoreapp2.2\CosmosPreview.pdb
