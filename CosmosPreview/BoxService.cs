@@ -24,6 +24,7 @@ namespace CosmosPreview
 
         public Task<Box> GetBoxById(int id)
         {
+            Helper.PrintBlock(string.Format("Die Box wird in der Datenbank anhand der Id {0} gesucht.", id.ToString()));
             return Repository.SingleAsync(b => b.BoxId == id);
         }
     }
