@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/CosmosPreview/v15
+obj/
+bin/
+CosmosPreview/CosmosPreview.csproj.user
