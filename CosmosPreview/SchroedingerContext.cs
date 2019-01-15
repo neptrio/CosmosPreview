@@ -8,6 +8,10 @@ namespace CosmosPreview
 {
     class SchroedingerContext : DbContext
     {
+
+        public DbSet<Box> Boxes { get; set; }
+        public DbSet<Cat> Cats { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseCosmos(
@@ -16,7 +20,12 @@ namespace CosmosPreview
               "schroedinger");
         }
 
-        public DbSet<Box> Boxes { get; set; }
-        public DbSet<Cat> Cats { get; set; }
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+
+        }
+
+
+
     }
 }

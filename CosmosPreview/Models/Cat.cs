@@ -7,6 +7,8 @@ namespace CosmosPreview.Models
     class Cat
     {
         public int CatId { get; set; }
+
+        public string Name { get; set; }
         public bool IsAlive { get; set; }
 
         public int BoxId { get; set; }

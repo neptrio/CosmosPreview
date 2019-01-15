@@ -8,6 +8,8 @@ namespace CosmosPreview.Models
     {
         public int BoxId { get; set; }
 
+        public string Color { get; set; }
+
         public Cat Cat { get; set; }
     }
 }
